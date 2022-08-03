@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @nimsaygcf
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning:
+-  HTML
+-  CSS
+-  JavaScript
+-  SQL
+-  C
+- 📫 How to reach me https://www.linkedin.com/in/yasmin-freitas-b12640231/
